@@ -1,4 +1,4 @@
-#PhoenixSockets
+# PhoenixSockets
 
 > A project highlighting the use of Elixir phoenix sockets
 
